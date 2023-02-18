@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: atri-utils
+Version: 0.0.67
+Summary: Utility functions for Atri framwork backend/controllers.
+Home-page: https://atrilabs.com
+Author: Atri Labs
+Author-email: shyam.swaroop@atrilabs.com
+License: GPLv3
+Project-URL: Source, https://github.com/Atri-Labs/atri_utils.git
+Requires-Python: >=3.7
+Requires-Dist: starlette
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pytest
+Requires-Dist: pillow
+
+A full stack framework that let's you drag-&-drop components to build apps.The backend of these apps can be very easily built using Python.It (semi-)automates many things out of the box such as CDN caching, browser caching etc.

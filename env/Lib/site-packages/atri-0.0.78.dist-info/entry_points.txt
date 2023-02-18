@@ -1,0 +1,2 @@
+[console_scripts]
+atri = atri.cli:main

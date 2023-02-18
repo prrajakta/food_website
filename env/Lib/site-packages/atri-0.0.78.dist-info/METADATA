@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: atri
+Version: 0.0.78
+Summary: The best tools to build better and fast apps
+Home-page: https://atrilabs.com
+Author: Atri Labs
+Author-email: shyam.swaroop@atrilabs.com
+License: GPLv3
+Project-URL: Source, https://github.com/cruxcode/atrilabs-engine.git
+Requires-Python: >=3.7
+Requires-Dist: click
+Requires-Dist: python-socketio[asyncio_client]
+Requires-Dist: toml
+Requires-Dist: questionary
+Requires-Dist: requests
+Requires-Dist: pymongo[srv]
+
+A full stack framework that let's you drag-&-drop components to build apps.The backend of these apps can be very easily built using Python.It (semi-)automates many things out of the box such as CDN caching, browser caching etc.
